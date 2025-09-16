@@ -1,0 +1,4 @@
+ipykernel
+matplotlib
+git+https://github.com/COMSOC-Community/pabutools.git@main
+tqdm
